@@ -1,4 +1,4 @@
-✊✋✌️ Rock Paper Scissors (Human vs Human) – Python
+# ✊✋✌️ Rock Paper Scissors (Human vs Human) – Python
 
 A two-player Rock Paper Scissors game built in Python, where both players are humans and take turns entering their choices.
 This project focuses on input handling, condition checking, and turn-based gameplay.
