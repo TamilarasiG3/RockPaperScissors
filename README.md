@@ -3,7 +3,7 @@
 A two-player Rock Paper Scissors game built in Python, where both players are humans and take turns entering their choices.
 This project focuses on input handling, condition checking, and turn-based gameplay.
 
-# 🚀 Features
+## 🚀 Features
 
 👥 Two-player (Human vs Human)
 
@@ -15,19 +15,19 @@ This project focuses on input handling, condition checking, and turn-based gamep
 
 🖥️ Runs in terminal / console
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3
 
 (No external libraries required)
 
-# 📂 Project Structure
+## 📂 Project Structure
 RockPaperScissors/
 │
 ├── rock_paper_scissors.py
 └── README.md
 
-# 🧠 Game Rules
+## 🧠 Game Rules
 
 Both players choose one option:
 
@@ -45,13 +45,13 @@ Paper beats Rock
 
 Same choices result in a Draw
 
-# 🎯 Sample Gameplay
+## 🎯 Sample Gameplay
 Player 1, enter your choice (rock/paper/scissors): rock
 Player 2, enter your choice (rock/paper/scissors): paper
 
 Player 2 wins! 🎉
 
-# 🌱 Future Improvements
+## 🌱 Future Improvements
 
 Hide player input (using getpass)
 
@@ -61,11 +61,10 @@ GUI version (Tkinter)
 
 Multiplayer over network
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 # Tamilarasi G
-# GitHub: @TamilarasiG3
 
-# 📜 License
+## 📜 License
 
 This project is open-source and free to use for learning and educational purposes.
